@@ -1,0 +1,40 @@
+# Core Python packages
+pandas==2.2.2
+numpy==1.26.4
+
+# Email handling
+imaplib2==3.6
+smtplib  # part of standard library, no need to install
+email  # part of standard library, no need to install
+
+# Authentication & OAuth (if using Gmail API)
+google-api-python-client==2.127.0
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+
+# NLP & Transformers
+transformers==4.41.2
+torch==2.3.0
+sentence-transformers==2.6.1
+scikit-learn==1.4.2
+
+# Scheduling
+schedule==1.2.1
+apscheduler==3.10.4
+
+# Database (for local/SQL-based tracking)
+openpyxl==3.1.2  # For Excel I/O
+SQLAlchemy==2.0.30
+
+# Dotenv for env vars
+python-dotenv==1.0.1
+
+# Logging and Utils
+loguru==0.7.2
+tqdm==4.66.4
+
+# Optional: for Streamlit or UI
+streamlit==1.35.0  # Only if you're building a web UI
+
+# Optional: for PDF or attachment reading
+PyMuPDF==1.24.5
