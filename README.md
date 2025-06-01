@@ -230,18 +230,3 @@ This will:
 ## 📝 License
 
 This project is part of a graduation project and is intended for educational purposes.
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT API
-- Google for Gmail API
-- Hugging Face for transformer models
-- scikit-learn for machine learning utilities
-
-## 📞 Support
-
-For questions or issues, please open an issue in the repository or contact the project maintainer.
-
----
-
-**Note**: This is an academic project developed for university email automation. Ensure you comply with your organization's email policies before deployment.
